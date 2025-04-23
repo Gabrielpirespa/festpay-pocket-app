@@ -5,12 +5,19 @@ Projeto de prova de conceito para a FestPay realizado em Flutter, com o objetivo
 ## Tecnologias utilizadas
 
 1 - **dotenv**: Para praticar segurança e não expor as apis do projeto;
+
 2 - **Clean Architecture**: Aplicada de forma a facilitar o crescimento e manutenção do app;
+
 3 - **Gestão de estados com BLOC (obrigatório)**: Tecnologia mais utilizada no mercado para gerenciamento de estados;
-4 - **Modular**: Utilizei o Modular para praticar sua configuração inicial, injeção de dependências e a navegação
+
+4 - **Modular**: Utilizei o Modular para praticar sua configuração inicial, injeção de dependências e a navegação;
+
 5 - **Dio**: Para consumir as REST Api's;
+
 6 - **FVM**: Para controle de versão do Flutter;
+
 7 - **IDE utilizada**: VsCode;
+
 8 - **Emulador utilizado**: XCode;
 
 
