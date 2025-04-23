@@ -36,7 +36,7 @@ Segue abaixo resumo das pastas criadas por mim e sua estrutura
 
 ## Arquitetura do projeto
 
-    O projeto foi implementado utilizando o padrão da Clean Architecture e também foi aplicada Modularização no qual é possível criar pequenos projetos referentes a determinadas funcionalidades do sistema.
+O projeto foi implementado utilizando o padrão da Clean Architecture e também foi aplicada Modularização no qual é possível criar pequenos projetos referentes a determinadas funcionalidades do sistema.
  
 
 1 - **app**: pasta que contem todo código da aplicação;
